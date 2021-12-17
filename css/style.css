@@ -1,0 +1,4 @@
+tbody > tr:hover{
+    background-color: rgba(166, 190, 190, 0.822);
+    font-weight: 800;
+}
